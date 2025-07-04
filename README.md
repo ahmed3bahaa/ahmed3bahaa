@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ahmed bahaa Third Year computer enginner at sakarya university and this is my git-hub account with all my work and projects that i worked upon in my three years of school.
+- 👋 Hi, I’m Ahmed bahaa Senior Year computer enginner at sakarya university and this is my git-hub account with all my work and projects that i worked upon in my three years of school.
 -    You can also check my other projects that  i used to work or still working on besides school.
 - 
 
