@@ -1,9 +1,9 @@
-<h2 align="left">Hi 👋, I'm Ahmed Bahaa</h2>
+<h1 align="left">Hi 👋, I'm Ahmed Bahaa</h1>
 
 <p align="left">
   🎓 Computer Engineering graduate from Sakarya University<br>
-  🛡️ Focused on SOC operations, incident response, OT/ICS security, and intrusion detection<br>
-  🔍 Building security platforms that transform alerts and telemetry into analyst-ready incident cases<br>
+  🛡️ Focused on DevOps, DevSecOps, OT/ICS security, and security-aware software development<br>
+  🤖 Interested in agentic security systems, SOC automation, and AI-assisted incident investigation<br>
   📍 Based in Istanbul, Türkiye
 </p>
 
@@ -18,20 +18,20 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🛡️ Interested in SOC operations, security monitoring, incident response, and OT cybersecurity
-- 🏭 Developed an OT/ICS SOC incident-response platform for the CENTER Water Management Testbed
-- 🔗 Correlated OPC UA process activity with Suricata network telemetry using Wazuh
-- 🤖 Co-developed an AI-assisted multi-agent SOC investigation platform
-- 📊 Built real-time intrusion-detection and privacy-preserving threat-analytics pipelines
-- 🐳 Experienced with Dockerized applications, CI pipelines, security testing, and automation
+- 🐳 Build Dockerized full-stack platforms using Django REST Framework, FastAPI, PostgreSQL, Next.js, and TypeScript
+- 🔐 Apply DevSecOps practices including automated testing, secret scanning, static analysis, dependency scanning, and container security
+- 🏭 Develop OT/ICS security systems that correlate OPC UA process activity with Suricata and Wazuh telemetry
+- 🤖 Build agentic security workflows for alert triage, evidence collection, MITRE ATT&CK mapping, and incident reporting
+- ☁️ Work with CI/CD pipelines, Azure, GitHub Actions, Azure DevOps, Nginx, and production deployment workflows
+- 📊 Develop real-time intrusion-detection and privacy-preserving security analytics systems
 
 ---
 
-### 🏭 Current OT/ICS Work
+## 🏭 Current OT/ICS and DevSecOps Work
 
-I developed an OT/ICS SOC incident-response MVP that converts OPC UA simulator activity into analyst-readable security cases.
+I am developing an OT-focused SOC incident-response and DevSecOps platform for the **CENTER Water Management Testbed**.
 
 The platform integrates:
 
@@ -41,6 +41,6 @@ UaExpert
 → Python OPC UA Monitor
 → Suricata
 → Wazuh
-→ Django REST API
+→ Django REST Framework
 → PostgreSQL
 → Next.js Dashboard
