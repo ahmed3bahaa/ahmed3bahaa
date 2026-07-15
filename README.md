@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! I'm Ahmed Bahaa</h2>
 
 <p align="left">
-  🎓 Senior Computer Engineering student at Sakarya University <br>
+  🎓 Computer Engineering Graduate From Sakarya University<br>
   💻 Passionate about software development and building real projects <br>
   📚 Here you’ll find my university projects and personal work from the past three years
 </p>
